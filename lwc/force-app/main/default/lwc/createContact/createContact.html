@@ -3,6 +3,11 @@
         <div class="slds-m-around_medium">
             <lightning-input label="Name" onchange={handleNameChange} class="slds-m-bottom_x-small"></lightning-input>
             <lightning-button label="Create Account" variant="brand" onclick={createAccount}></lightning-button>
+            <lightning-datatable columns={columns}
+                                 data={data}
+                                 key-field="id"
+                                 hide-checkbox-column="true"
+                                 show-row-number-column="true"></lightning-datatable>
         </div>
     </lightning-card>
 </template>

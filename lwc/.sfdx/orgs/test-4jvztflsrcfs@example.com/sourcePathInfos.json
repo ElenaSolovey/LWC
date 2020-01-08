@@ -2,14 +2,14 @@
     [
         "C:\\Users\\user\\LWC\\lwc\\force-app",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1578421520020,
             "changeTime": 1578421520020,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\user\\LWC\\lwc\\force-app\\main",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1578421520021,
             "changeTime": 1578421520021,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1578421520156,
             "changeTime": 1578421520156,
             "contentHash": "134fb9100108b9aaba9aee713cf235d514fd8f88",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -47,14 +47,14 @@
     [
         "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\applications",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\applications",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1578421520021,
             "changeTime": 1578421520021,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +62,14 @@
     [
         "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1578421520021,
             "changeTime": 1578421520021,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,29 +77,28 @@
     [
         "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1578421520021,
-            "changeTime": 1578421520021,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1578474581784,
+            "changeTime": 1578474581784,
+            "contentHash": "9ee297825facdef80c1dc0f09c3e80c52f70c93f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\contentassets",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\contentassets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1578421520021,
             "changeTime": 1578421520021,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +106,14 @@
     [
         "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\flexipages",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1578421520022,
             "changeTime": 1578421520022,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -122,14 +121,14 @@
     [
         "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\layouts",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\layouts",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1578421520022,
             "changeTime": 1578421520022,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -137,14 +136,14 @@
     [
         "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1578422386699,
+            "modifiedTime": 1578473010749,
             "changeTime": 1578422386699,
             "contentHash": "965de63995f7743093ebaae6b2ef9b7f87fd171c",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +151,14 @@
     [
         "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc\\createContact",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc\\createContact",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1578422386710,
+            "modifiedTime": 1578473010751,
             "changeTime": 1578422386710,
             "contentHash": "f3239fe7f136ea4b243bd4dc79b7b877c02150fc",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,16 +166,15 @@
     [
         "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc\\createContact\\createContact.html",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc\\createContact\\createContact.html",
             "isDirectory": false,
+            "size": 707,
+            "modifiedTime": 1578474083983,
+            "changeTime": 1578474083983,
+            "contentHash": "19f68acbba7d85424c207ebdf4885b917ad92d4f",
             "isMetadataFile": false,
-            "size": 407,
-            "modifiedTime": 1578425065741,
-            "changeTime": 1578425065741,
-            "contentHash": "3de3aae790cf9973d8c78faf6edbd8122cdbe056",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -186,40 +184,38 @@
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc\\createContact\\createContact.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1142,
-            "modifiedTime": 1578425272430,
-            "changeTime": 1578425272430,
-            "contentHash": "2fa2966c178411b33da5b9427c79f5b5a5c70b62",
+            "size": 2029,
+            "modifiedTime": 1578478175246,
+            "changeTime": 1578478175246,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "09ec77d9f2349416191b7c04619cfcc74d10c483"
         }
     ],
     [
         "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc\\createContact\\createContact.js-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc\\createContact\\createContact.js-meta.xml",
             "isDirectory": false,
+            "size": 381,
+            "modifiedTime": 1578473010751,
+            "changeTime": 1578473010751,
+            "contentHash": "3dad636e57aa211b5c45471df269e25379b2ae75",
             "isMetadataFile": true,
-            "size": 372,
-            "modifiedTime": 1578423969811,
-            "changeTime": 1578423969811,
-            "contentHash": "7d4f3815f5292b66e512ffcabace25e0ce492edb",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
         "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1578421520022,
             "changeTime": 1578421520022,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -227,14 +223,14 @@
     [
         "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\permissionsets",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\permissionsets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1578421520022,
             "changeTime": 1578421520022,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -242,14 +238,14 @@
     [
         "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\staticresources",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\staticresources",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1578421520023,
             "changeTime": 1578421520023,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -257,14 +253,14 @@
     [
         "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1578421520023,
             "changeTime": 1578421520023,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -272,14 +268,14 @@
     [
         "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\triggers",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\triggers",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1578421520023,
             "changeTime": 1578421520023,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -287,16 +283,42 @@
     [
         "C:\\Users\\user\\LWC\\lwc",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\user\\LWC\\lwc",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1578425624387,
+            "modifiedTime": 1578473010767,
             "changeTime": 1578425624387,
             "contentHash": "a4132f6c6373a87ff29662788d20d9b2bd2243f0",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\classes\\RecordCreateController.cls",
+        {
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\classes\\RecordCreateController.cls",
+            "isDirectory": false,
+            "size": 215,
+            "modifiedTime": 1578478031146,
+            "changeTime": 1578478031146,
+            "contentHash": "0f8e8bc5b921e067ec0e9ab3b069815e8faa7e3a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\classes\\RecordCreateController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\classes\\RecordCreateController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1578474581784,
+            "changeTime": 1578474581784,
+            "contentHash": "50701282159e2679109ad6da2dfbb354eca50ce0",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
