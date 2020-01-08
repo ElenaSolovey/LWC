@@ -1,0 +1,302 @@
+[
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578421520020,
+            "changeTime": 1578421520020,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578421520021,
+            "changeTime": 1578421520021,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578421520156,
+            "changeTime": 1578421520156,
+            "contentHash": "134fb9100108b9aaba9aee713cf235d514fd8f88",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\applications",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578421520021,
+            "changeTime": 1578421520021,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578421520021,
+            "changeTime": 1578421520021,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578421520021,
+            "changeTime": 1578421520021,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\contentassets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578421520021,
+            "changeTime": 1578421520021,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\flexipages",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578421520022,
+            "changeTime": 1578421520022,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578421520022,
+            "changeTime": 1578421520022,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578422386699,
+            "changeTime": 1578422386699,
+            "contentHash": "965de63995f7743093ebaae6b2ef9b7f87fd171c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc\\createContact",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc\\createContact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578422386710,
+            "changeTime": 1578422386710,
+            "contentHash": "f3239fe7f136ea4b243bd4dc79b7b877c02150fc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc\\createContact\\createContact.html",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc\\createContact\\createContact.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 407,
+            "modifiedTime": 1578425065741,
+            "changeTime": 1578425065741,
+            "contentHash": "3de3aae790cf9973d8c78faf6edbd8122cdbe056",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc\\createContact\\createContact.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc\\createContact\\createContact.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1142,
+            "modifiedTime": 1578425272430,
+            "changeTime": 1578425272430,
+            "contentHash": "2fa2966c178411b33da5b9427c79f5b5a5c70b62",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc\\createContact\\createContact.js-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\lwc\\createContact\\createContact.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 372,
+            "modifiedTime": 1578423969811,
+            "changeTime": 1578423969811,
+            "contentHash": "7d4f3815f5292b66e512ffcabace25e0ce492edb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578421520022,
+            "changeTime": 1578421520022,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\permissionsets",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578421520022,
+            "changeTime": 1578421520022,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\staticresources",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578421520023,
+            "changeTime": 1578421520023,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578421520023,
+            "changeTime": 1578421520023,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\triggers",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578421520023,
+            "changeTime": 1578421520023,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\user\\LWC\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\user\\LWC\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1578425624387,
+            "changeTime": 1578425624387,
+            "contentHash": "a4132f6c6373a87ff29662788d20d9b2bd2243f0",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
